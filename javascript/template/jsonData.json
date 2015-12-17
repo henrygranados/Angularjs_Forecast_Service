@@ -1,0 +1,35 @@
+{
+  "city_name": "Denver ,CO",
+  "days": [
+    {
+      "eventDate": 1420390800000,
+      "icon": "images/icon6.png",
+      "high": 100,
+      "low": 95
+    },
+    {
+      "eventDate": 1420477200000,
+      "icon": "images/icon2.png",
+      "high": 75,
+      "low": 63
+    },
+    {
+      "eventDate": 1420563600000,
+      "icon": "images/icon3.ico",
+      "high": 83,
+      "low": 77
+    },
+    {
+      "eventDate": 1420650000000,
+      "icon": "images/icon4.png",
+      "high": 67,
+      "low": 65
+    },
+    {
+      "eventDate": 1420736400000,
+      "icon": "images/icon5.png",
+      "high": 29,
+      "low": 25
+    }
+  ]
+}

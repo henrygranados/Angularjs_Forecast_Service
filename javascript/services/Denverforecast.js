@@ -1,4 +1,6 @@
 /******SERVICE*********/
+(function () {
+	'use strict';
 
 app.factory('Denverforecast', ['$http', function($http) { 
   return $http.get('javascript/template/jsonData.json') 
@@ -9,5 +11,6 @@ app.factory('Denverforecast', ['$http', function($http) {
               return err; 
             }); 
 }]);
+}());
 
 

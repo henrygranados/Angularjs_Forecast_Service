@@ -1,4 +1,4 @@
-# Angularjs_Forecast_Service
+# Forecast app
 
  This is a simple Forecast app using Angularjs. It uses a service (Denverforecast.js) that brings all the forescast data to the app using a template (jsonData.json).
 
